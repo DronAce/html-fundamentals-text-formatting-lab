@@ -124,5 +124,4 @@ appealing.
 
 ## Resources
 
-- [HTML Tag Reference](https://www.w3schools.com/tags/tag_i.asp)
-
+-[HTML Tag Reference](https://www.w3schools.com/tags/tag_i.asp)
